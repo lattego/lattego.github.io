@@ -87,10 +87,12 @@ avatar:
 disable_top_img:
 
 # The banner image of home page
+#
 index_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
+#  https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
+default_top_img:
 
 # The banner image of archive page
 archive_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
@@ -514,10 +516,11 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+# https://i:loli:net/2019/09/09/5oDRkWVKctx2b6A:png:
+background: url(https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp)
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
