@@ -104,5 +104,5 @@ theme: butterfly
 deploy:
   type: git
   repository:
-    github: git@github.com:vayneluo/vayneluo.github.io.git
+    github: git@github.com:lattego/lattego.github.io.git
   branch: master
