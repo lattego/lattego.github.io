@@ -5,8 +5,6 @@ cover: https://api.lattice.vip/manage/file/图片/category-20220826040937428.jpg
 tags: [Linux, RocketMQ]
 categories: Development Environment
 ---
-## 向往的开发环境搭建（一）：RocketMQ Cluster
-
 > 本文基于Docker虚拟化容器技术，实现一台虚拟机作为宿主机，安装Docker环境部署RocketMQ（2M-2S-Namesrv）集群环境
 
 ### 前言

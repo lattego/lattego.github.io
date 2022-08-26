@@ -84,20 +84,20 @@ avatar:
   effect: false
 
 # Disable all banner image
-disable_top_img: false
+disable_top_img:
 
 # The banner image of home page
 index_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: false
+default_top_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
 
 # The banner image of archive page
-archive_img:
+archive_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
 
 # The banner image of tag page
 # format:
@@ -106,7 +106,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: https://api.lattice.vip/manage/file/其他/awrad-els5m-2022082505433924.webp
 
 # The banner image of category page
 # format:
@@ -422,7 +422,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text:  Hi, welcome to a <a href="https://lattego.github.io/">latte</a>
+  custom_text:  Hi, Welcome to a <a href="https://lattego.github.io/">latte</a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
