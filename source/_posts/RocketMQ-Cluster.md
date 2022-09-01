@@ -1,7 +1,7 @@
 ---
 title: 向往的开发环境搭建（一）：RocketMQ Cluster
 date: 2022-08-25 16:40:47
-cover: https://api.lattice.vip/manage/file/图片/category-20220826040937428.jpg
+cover: https://share.lattice.vip/lattice/latte/category.jpg
 tags: [Linux, RocketMQ]
 categories: Development Environment
 ---
