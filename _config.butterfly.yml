@@ -424,7 +424,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text:  Hi, Welcome to a <a href="https://lattego.github.io/">latte</a>
+  custom_text:  Have a heart-stealing <a href="https://lattego.github.io/">latte</a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -432,7 +432,7 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: f50420cd977200d0fea36a5670cdd2de
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
